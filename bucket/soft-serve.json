@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.7.1/soft-serve_0.7.1_Windows_x86_64.zip",
-            "bin": "soft-serve.exe"
+            "bin": "soft.exe"
         },
         "32bit": {
             "url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.7.1/soft-serve_0.7.1_Windows_i386.zip",
-            "bin": "soft-serve.exe"
+            "bin": "soft.exe"
         }
     },
     "checkver": {
