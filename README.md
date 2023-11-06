@@ -1,10 +1,10 @@
-# scoop-nirsoft
+# scoop-charmbracelet
 
-A [Scoop](http://scoop.sh) bucket of useful [NirSoft](https://www.nirsoft.net/) utilities.
+A [Scoop](http://scoop.sh) bucket of useful [charmbracelet](https://github.com/charmbracelet/) utilities.
 
 To make it easy to install apps from this bucket, run:
 
-    > scoop bucket add nirsoft
+    > scoop bucket add charmbracelet https://github.com/developing-today-forks/scoop-charmbracelet
 
 ## Why does this exist?
 
@@ -17,4 +17,4 @@ For an app to be acceptable for the main bucket, it should be:
 
 The "extras" bucket has more relaxed requirements, so it's a good place to put anything that doesn't quite fit in the main bucket.
 
-The "nirsoft" bucket is specifically for the many (hundreds) of utilities found on the NirSoft website.
+The "charmbracelet" bucket is specifically for the many utilities found on the charmbracelet website which haven't made it into the main bucket, _yet_.
