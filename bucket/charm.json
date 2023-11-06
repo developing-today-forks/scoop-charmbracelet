@@ -17,6 +17,6 @@
         "github": "https://github.com/charmbracelet/charm"
     },
     "autoupdate": {
-        "url": "https://github.com/charmbracelet/charm/releases/download/v$version/charm_$version_Windows_$architecture.zip",
+        "url": "https://github.com/charmbracelet/charm/releases/download/v$version/charm_$version_Windows_$architecture.zip"
     }
 }

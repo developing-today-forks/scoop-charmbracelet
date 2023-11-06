@@ -17,6 +17,6 @@
         "github": "https://github.com/charmbracelet/wishlist"
     },
     "autoupdate": {
-        "url": "https://github.com/charmbracelet/wishlist/releases/download/v$version/wishlist_$version_Windows_$architecture.zip",
+        "url": "https://github.com/charmbracelet/wishlist/releases/download/v$version/wishlist_$version_Windows_$architecture.zip"
     }
 }

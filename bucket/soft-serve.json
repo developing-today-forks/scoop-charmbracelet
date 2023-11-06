@@ -17,6 +17,6 @@
         "github": "https://github.com/charmbracelet/soft-serve"
     },
     "autoupdate": {
-        "url": "https://github.com/charmbracelet/soft-serve/releases/download/v$version/soft-serve_$version_Windows_$architecture.zip",
+        "url": "https://github.com/charmbracelet/soft-serve/releases/download/v$version/soft-serve_$version_Windows_$architecture.zip"
     }
 }

@@ -17,6 +17,6 @@
         "github": "https://github.com/charmbracelet/pop"
     },
     "autoupdate": {
-        "url": "https://github.com/charmbracelet/pop/releases/download/v$version/pop_$version_Windows_$architecture.zip",
+        "url": "https://github.com/charmbracelet/pop/releases/download/v$version/pop_$version_Windows_$architecture.zip"
     }
 }

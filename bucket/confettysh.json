@@ -17,6 +17,6 @@
         "github": "https://github.com/charmbracelet/confettysh"
     },
     "autoupdate": {
-        "url": "https://github.com/charmbracelet/confettysh/releases/download/v$version/confettysh_$version_Windows_$architecture.zip",
+        "url": "https://github.com/charmbracelet/confettysh/releases/download/v$version/confettysh_$version_Windows_$architecture.zip"
     }
 }

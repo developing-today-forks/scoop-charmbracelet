@@ -17,6 +17,6 @@
         "github": "https://github.com/charmbracelet/skate"
     },
     "autoupdate": {
-        "url": "https://github.com/charmbracelet/skate/releases/download/v$version/skate_$version_Windows_$architecture.zip",
+        "url": "https://github.com/charmbracelet/skate/releases/download/v$version/skate_$version_Windows_$architecture.zip"
     }
 }

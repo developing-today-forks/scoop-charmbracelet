@@ -17,6 +17,6 @@
         "github": "https://github.com/charmbracelet/mods"
     },
     "autoupdate": {
-        "url": "https://github.com/charmbracelet/mods/releases/download/v$version/mods_$version_Windows_$architecture.zip",
+        "url": "https://github.com/charmbracelet/mods/releases/download/v$version/mods_$version_Windows_$architecture.zip"
     }
 }

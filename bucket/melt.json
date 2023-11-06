@@ -17,6 +17,6 @@
         "github": "https://github.com/charmbracelet/melt"
     },
     "autoupdate": {
-        "url": "https://github.com/charmbracelet/melt/releases/download/v$version/melt_$version_Windows_$architecture.zip",
+        "url": "https://github.com/charmbracelet/melt/releases/download/v$version/melt_$version_Windows_$architecture.zip"
     }
 }
