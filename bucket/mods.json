@@ -1,22 +1,22 @@
 {
-    "version": "1.0.0",
-    "description": "Mods - AI on the command line",
-    "homepage": "https://github.com/charmbracelet/mods",
-    "license": "MIT",
-    "architecture": {
-        "64bit": {
-            "url": "https://github.com/charmbracelet/mods/releases/download/v1.0.0/mods_1.0.0_Windows_x86_64.zip",
-            "bin": "mods.exe"
-        },
-        "32bit": {
-            "url": "https://github.com/charmbracelet/mods/releases/download/v1.0.0/mods_1.0.0_Windows_i386.zip",
-            "bin": "mods.exe"
-        }
+  "version": "v1.0.0",
+  "description": "Mods - AI on the command line",
+  "homepage": "https://github.com/charmbracelet/mods",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/charmbracelet/mods/releases/download/v1.0.0/mods_1.0.0_Windows_x86_64.zip",
+      "bin": "mods.exe"
     },
-    "checkver": {
-        "github": "https://github.com/charmbracelet/mods"
-    },
-    "autoupdate": {
-        "url": "https://github.com/charmbracelet/mods/releases/download/v$version/mods_$version_Windows_$architecture.zip"
+    "32bit": {
+      "url": "https://github.com/charmbracelet/mods/releases/download/v1.0.0/mods_1.0.0_Windows_i386.zip",
+      "bin": "mods.exe"
     }
+  },
+  "checkver": {
+    "github": "https://github.com/charmbracelet/mods"
+  },
+  "autoupdate": {
+    "url": "https://github.com/charmbracelet/mods/releases/download/v$version/mods_$version_Windows_$architecture.zip"
+  }
 }

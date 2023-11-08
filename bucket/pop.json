@@ -1,22 +1,22 @@
 {
-    "version": "0.2.0",
-    "description": "pop - Send emails from your terminal 📬",
-    "homepage": "https://github.com/charmbracelet/pop",
-    "license": "MIT",
-    "architecture": {
-        "64bit": {
-            "url": "https://github.com/charmbracelet/pop/releases/download/v0.2.0/pop_0.2.0_Windows_x86_64.zip",
-            "bin": "pop.exe"
-        },
-        "32bit": {
-            "url": "https://github.com/charmbracelet/pop/releases/download/v0.2.0/pop_0.2.0_Windows_i386.zip",
-            "bin": "pop.exe"
-        }
+  "version": "v0.2.0",
+  "description": "pop - Send emails from your terminal 📬",
+  "homepage": "https://github.com/charmbracelet/pop",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/charmbracelet/pop/releases/download/v0.2.0/pop_0.2.0_Windows_x86_64.zip",
+      "bin": "pop.exe"
     },
-    "checkver": {
-        "github": "https://github.com/charmbracelet/pop"
-    },
-    "autoupdate": {
-        "url": "https://github.com/charmbracelet/pop/releases/download/v$version/pop_$version_Windows_$architecture.zip"
+    "32bit": {
+      "url": "https://github.com/charmbracelet/pop/releases/download/v0.2.0/pop_0.2.0_Windows_i386.zip",
+      "bin": "pop.exe"
     }
+  },
+  "checkver": {
+    "github": "https://github.com/charmbracelet/pop"
+  },
+  "autoupdate": {
+    "url": "https://github.com/charmbracelet/pop/releases/download/v$version/pop_$version_Windows_$architecture.zip"
+  }
 }
