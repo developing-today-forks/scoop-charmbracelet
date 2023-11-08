@@ -1,0 +1,18 @@
+on:
+  schedule:
+  - cron: '*/30 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+name: Autoupdate
+jobs:
+  autoupdate:
+    name: Autoupdate
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+    - run: ./bin/autoupdate.ps1
+      shell: pwsh
+      env:
+        GH_TOKEN: ${{ github.token }}
+    - uses: stefanzweifel/git-auto-commit-action@v5
