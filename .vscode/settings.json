@@ -24,10 +24,5 @@
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/tmp": true
-    },
-    "workbench.colorCustomizations": {
-        "activityBar.background": "#5D0E18",
-        "titleBar.activeBackground": "#821322",
-        "titleBar.activeForeground": "#FEFBFB"
     }
 }
