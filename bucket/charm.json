@@ -1,5 +1,5 @@
 {
-  "version": "v0.12.6",
+  "version": "0.12.6",
   "description": "Charm — a framework for building terminal applications.",
   "homepage": "https://github.com/charmbracelet/charm",
   "license": "MIT",

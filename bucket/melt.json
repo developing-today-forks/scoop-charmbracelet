@@ -1,5 +1,5 @@
 {
-  "version": "v0.6.0",
+  "version": "0.6.0",
   "description": "melt - 🧊 Backup and restore Ed25519 SSH keys with seed words.",
   "homepage": "https://github.com/charmbracelet/melt",
   "license": "MIT",

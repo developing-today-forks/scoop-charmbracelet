@@ -1,5 +1,5 @@
 {
-  "version": "v0.14.0",
+  "version": "0.14.0",
   "description": "wishlist — The mighty, self-hostable Git server for the command line🍦",
   "homepage": "https://github.com/charmbracelet/wishlist",
   "license": "MIT",
