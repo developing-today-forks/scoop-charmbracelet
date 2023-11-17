@@ -1,12 +1,23 @@
+# use this now
+
+- https://github.com/charmbracelet/scoop-bucket
+
+```
+scoop bucket add charmbracelet https://github.com/charmbracelet/scoop-bucket
+```
+
 # scoop-charmbracelet
 
 A [Scoop](http://scoop.sh) bucket of useful [charmbracelet](https://github.com/charmbracelet/) utilities.
 
 To make it easy to install apps from this bucket, run:
 
+don't use this anymore!
 ```
 scoop bucket add charmbracelet https://github.com/developing-today-forks/scoop-charmbracelet
 ```
+
+
 ## SHA check?
 
 charmbracelet includes a `checksums.txt`, `checksums.txt.pem`, `checksums.txt.sig` files. These could be used to automatically check the hash of the downloaded file. As-is, we are not validating the hash and are relying on the github release being valid.
