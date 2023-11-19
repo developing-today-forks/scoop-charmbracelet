@@ -3,7 +3,7 @@
 - https://github.com/charmbracelet/scoop-bucket
 
 ```
-scoop bucket add charmbracelet https://github.com/charmbracelet/scoop-bucket
+scoop bucket add charm https://github.com/charmbracelet/scoop-bucket
 ```
 
 # scoop-charmbracelet
